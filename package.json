@@ -1,5 +1,5 @@
 {
-  "description": "session name",
+  "description": "MAKORA-session",
   "main": "./malvin.js",
   "type": "commonjs",
   "engines": {
